@@ -6,6 +6,6 @@ maru = Cat.new
 maru.name = "Maru"
 maru.name  
 
-def meow=(name)
+def meow(name)
   puts "meow!"
 end
