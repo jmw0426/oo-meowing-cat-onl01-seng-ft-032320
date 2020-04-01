@@ -4,7 +4,7 @@ end
 
 
 
-def meow(name)
+def meow(maru)
   puts "meow!"
 end
 
