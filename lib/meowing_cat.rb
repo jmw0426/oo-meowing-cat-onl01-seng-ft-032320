@@ -9,3 +9,4 @@ maru.name
 def meow(name)
   puts "meow!"
 end
+maru.meow
